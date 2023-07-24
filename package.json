@@ -1,7 +1,7 @@
 {
   "name": "video-poker-web",
   "version": "0.1.0",
-  "homepage": "https://ho-tony.github.io/VideoPokerReact",
+  "homepage": "https://ho-tony.github.io/JacksOrBetterReact",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -17,9 +17,9 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d JacksOrBetterReact",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "BUILD_PATH='./JacksOrBetterReact' react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
