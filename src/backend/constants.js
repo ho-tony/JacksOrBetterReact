@@ -1,0 +1,13 @@
+export const RFLUSH = "ROYAL FLUSH"
+export const SFLUSH = "STRAIGHT FLUSH"
+export const FOURKIND = "FOUR OF A KIND"
+export const FHOUSE = "FULL HOUSE"
+export const FLUSH = "FLUSH"
+export const STRAIGHT = "STRAIGHT"
+export const THREEKIND = "THREE OF A KIND"
+export const TWOP = "TWO PAIR"
+export const JACKBETTER = "JACK OR BETTER"
+export const DIA = "DIAMONDS";
+export const CLUBS = "CLUBS"
+export const SPADES = "SPADES"
+export const HEARTS = "HEARTS"
